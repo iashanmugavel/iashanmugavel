@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shanmugavel Arunachalam
 - 👀 I’m interested in Ruby on Rails and AWS
-- 🌱 I’m currently learning JS and Python
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on open source contributions
 - 📫 Reach me in [LinkedIn]( https://www.linkedin.com/in/iashanmugavel/)
 
